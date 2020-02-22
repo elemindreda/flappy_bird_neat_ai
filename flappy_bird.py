@@ -219,12 +219,7 @@ def main(genomes, config):
         else:
             run = False
             
-            
-
-
-
-            
-        
+    
         for x, bird in enumerate(birds):
             bird.move()
             ge[x].fitness += 0.1

@@ -1,3 +1,6 @@
+## Credit to TECH WITH TIM for a great tutorial!##
+##################################################
+
 import pygame
 import neat
 import time
